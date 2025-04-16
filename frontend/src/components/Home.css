@@ -1,0 +1,19 @@
+/* src/components/Home.css */
+.home-hero {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    padding: 0 15px;
+  }
+  
+  .home-hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .home-hero p.lead {
+    font-size: 1.5rem;
+  }
+  
