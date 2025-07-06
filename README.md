@@ -68,8 +68,8 @@ index.js
 ## 🚀 Getting Started
 
 1. Clone this repository
-**git clone https://github.com/your-username/mentorship-booking-platform.git**
-**cd mentorship-booking-platform**
+**git clone https://github.com/poojitha2704/Mentorship_Booking_Platform.git**
+**cd Mentorship-Booking-Platform**
 
 2. Install dependencies
 **npm install**
