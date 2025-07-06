@@ -1,6 +1,6 @@
 # 📚 Mentorship Booking Platform
 
-A fully responsive **Mentorship Booking Platform** built with **React.js**. This frontend application enables students to sign up, log in, book mentorship sessions, chat with mentors in real-time, and manage their profiles — while mentors (faculty) can view bookings, update their profiles, and communicate with students through a dedicated dashboard.
+A fully responsive **Mentorship Booking Platform** built with **React.js**. This frontend application enables students to sign up, log in, book mentorship sessions, chat with mentors in real-time, and manage their profiles while mentors (faculty) can view bookings, update their profiles, and communicate with students through a dedicated dashboard.
 
 ---
 
